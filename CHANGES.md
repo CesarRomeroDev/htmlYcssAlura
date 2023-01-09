@@ -52,3 +52,9 @@
 - Utilidad de un VCS.
 - Instalando Git.
 - Repositorios.
+- Guardando las modificaciones.
+- Primera configuración de Git.
+- Ignorando archivos.
+- Servidor Git.
+- Trabajando con repositorios remotos.
+
