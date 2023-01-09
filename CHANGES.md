@@ -63,3 +63,5 @@
 - GitHub
 - Branches
 - Uniendo el trabajo
+- Merge de branches
+- Actualizando la branch
