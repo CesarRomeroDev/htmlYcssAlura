@@ -61,3 +61,5 @@
 - Sincronizando los datos.
 - Compartimos las modificaciones.
 - GitHub
+- Branches
+- Uniendo el trabajo
