@@ -58,3 +58,5 @@
 - Servidor Git.
 - Trabajando con repositorios remotos.
 
+- Sincronizando los datos.
+- Compartimos las modificaciones.
